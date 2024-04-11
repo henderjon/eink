@@ -1,0 +1,32 @@
+{
+  "name": "eink",
+  "displayName": "eink",
+  "icon": "icon.png",
+  "description": "A gently colorized eink-style color theme. A blend of softpaper and monokai22",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "publisher": "henderjon",
+  "author": {
+      "name": "henderjon"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "eink",
+        "uiTheme": "vs",
+        "path": "./themes/eink-color-theme.json"
+      }
+    ]
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/henderjon/eink"
+  },
+  "homepage": "https://github.com/henderjon/eink"
+}

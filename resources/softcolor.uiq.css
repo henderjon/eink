@@ -1,0 +1,44 @@
+p{
+	color: #f3f1eb; /* background */
+	color: #333333; /* foreground */
+	color: #fff;    /* */
+	color: #AAAAAA; /* */
+	color: #448C27; /* #A6E22E - green */
+	color: #660000; /* #F92672 - fuschia */
+	color: #777777; /* current line */
+	color: #4B83CD; /* #FD971F - orange SHOULD be BLUE */
+	color: #7A3E9D; /* #AE81FF - magenta */
+	color: #AB6526; /* #FFE792 - yellow // mod */
+	color: #AA3731; /* */
+	color: #91B3E0; /* #66D9EF - cyan */
+	color: #000000; /* */
+	color: #434343; /* */
+}
+
+p {
+	color: #f3f1eb;
+	color: #5f5f5e;
+	color: #333333ff;
+	color: #939e53; /* comments */
+	color: #AAAAAA;
+	color: #76832b;
+	color: #96000014;
+	color: #660000;
+	color: #2b2b2b; /* keywords & types */
+	color: #AB6526;
+	color: #205988;
+	color: #777777;
+	color: #4B83CD;
+	color: #EAEBE6;
+	color: #91B3E0;
+	color: #7A3E9D;
+	color: #448C27;
+	color: #FFFFDD;
+	color: #000000;
+	color: #FFDDDD;
+	color: #DDFFDD;
+	color: #AA3731;
+	color: #DDDDFF;
+	color: #434343;
+	color: #9e2727;
+}
