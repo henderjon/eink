@@ -15,9 +15,9 @@
 		"tab.activeBackground":"#DDDDFF",
 		"tab.activeForeground":"#000",
 		"tab.inactiveForeground":"#CFCFC2",
-		"tab.activeModifiedBorder":"#CFCFC2",
+		"tab.activeModifiedBorder":"#660000",
 		"tab.inactiveModifiedBorder":"#660000",
-		"list.inactiveSelectionBackground":"#4f4d40",
+		"list.inactiveSelectionBackground":"#DDDDFF",
 
 		"editorLineNumber.activeForeground" : "#5f5f5e",
 		"terminal.border" : "#5f5f5e",
