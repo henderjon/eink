@@ -9,12 +9,12 @@
 		"editor.selectionBackground": "#d4d6cc",
 		// "editor.findMatchBackground": "#49483E",
 		// "editor.findMatchHighlightBorder": "#75715E",
-		"editor.findMatchHighlightBackground": "#F4BF75", // generated value
+		"editor.findMatchHighlightBackground": "#F4BF75",
 
 		"tab.border": "#5f5f5e",
 		"tab.activeBackground":"#DDDDFF",
 		"tab.activeForeground":"#000",
-		"tab.inactiveForeground":"#CFCFC2",
+		"tab.inactiveForeground":"#8f8f8e",
 		"tab.activeModifiedBorder":"#660000",
 		"tab.inactiveModifiedBorder":"#660000",
 		"list.inactiveSelectionBackground":"#DDDDFF",
@@ -217,14 +217,14 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#CFCFC2",
+				"foreground": "#8f8f8e",
 				"fontStyle": "strikethrough"
 			}
 		},
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#CFCFC2",
+				"foreground": "#8f8f8e",
 				"fontStyle": "strikethrough"
 			}
 		},
@@ -374,7 +374,7 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#CFCFC2",
+				"foreground": "#8f8f8e",
 				"fontStyle": "strikethrough"
 			}
 		},
