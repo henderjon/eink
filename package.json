@@ -3,13 +3,13 @@
   "displayName": "eink",
   "icon": "icon.png",
   "description": "A gently colorized eink-style color theme. A blend of softpaper and monokai22",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.88.0"
   },
   "publisher": "henderjon",
   "author": {
-      "name": "henderjon"
+    "name": "henderjon"
   },
   "categories": [
     "Themes"
@@ -25,8 +25,8 @@
   },
   "license": "SEE LICENSE IN LICENSE.txt",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/henderjon/eink"
+    "type": "git",
+    "url": "https://github.com/henderjon/eink"
   },
   "homepage": "https://github.com/henderjon/eink"
 }
