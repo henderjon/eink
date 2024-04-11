@@ -3,7 +3,7 @@
   "displayName": "eink",
   "icon": "icon.png",
   "description": "A gently colorized eink-style color theme. A blend of softpaper and monokai22",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.88.0"
   },
