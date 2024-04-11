@@ -14,7 +14,7 @@
 		"tab.border": "#5f5f5e",
 		"tab.activeBackground":"#DDDDFF",
 		"tab.activeForeground":"#000",
-		"tab.inactiveForeground":"#8f8f8e",
+		"tab.inactiveForeground":"#7f7f7e",
 		"tab.activeModifiedBorder":"#660000",
 		"tab.inactiveModifiedBorder":"#660000",
 		"list.inactiveSelectionBackground":"#DDDDFF",
@@ -217,14 +217,14 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#8f8f8e",
+				"foreground": "#7f7f7e",
 				"fontStyle": "strikethrough"
 			}
 		},
 		{
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#8f8f8e",
+				"foreground": "#7f7f7e",
 				"fontStyle": "strikethrough"
 			}
 		},
@@ -374,7 +374,7 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#8f8f8e",
+				"foreground": "#7f7f7e",
 				"fontStyle": "strikethrough"
 			}
 		},
